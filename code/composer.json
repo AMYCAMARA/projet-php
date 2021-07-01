@@ -1,0 +1,13 @@
+{
+    "name": "hp/php",
+    "description": "gestion_des_etudiants",
+    "type": "project",
+    "authors": [
+        {
+            "name": "amy camara",
+            "email": "camaraamy265@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
